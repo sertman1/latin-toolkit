@@ -232,6 +232,7 @@ imperito: 1
 insulto: 1
 inficio: 1
 instruo: 1
+intro: 1
 inuestigo: 1
 intueor: 1
 interfodio: 1
