@@ -86,7 +86,6 @@ emereo: 1
 excipio: 1
 exclamo: 1
 exsero2: 1
-ago: 1
 emolo: 1
 exosso: 1
 ----------------
