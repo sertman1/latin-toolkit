@@ -51,7 +51,7 @@ contraho: 1
 condio: 1
 como2: 1
 ----------------
-Total: 51
+Total: 101
 
 IN-
 incipio: 7
@@ -120,7 +120,7 @@ insector2: 1
 inamaresco: 1
 incoquo: 1
 ----------------
-Total: 65
+Total: 116
 
 EX-
 eripio: 6
@@ -185,7 +185,7 @@ euado2: 1
 exsurdo: 1
 emendo: 1
 ----------------
-Total: 62
+Total: 103
 
 DE-
 defendo: 8
@@ -239,7 +239,7 @@ depello: 1
 denormo: 1
 deligo3: 1
 ----------------
-Total: 50
+Total: 98
 
 AB-
 abeo1: 8
@@ -268,7 +268,7 @@ auerro: 1
 abnuo: 1
 abundo: 1
 ----------------
-Total: 25
+Total: 52
 
 AD-
 addo: 20
@@ -325,7 +325,7 @@ addico2: 1
 adduco: 1
 afflo: 1
 ----------------
-Total: 53
+Total: 123
 
 OB-
 obsto: 6
@@ -353,7 +353,7 @@ obsum1: 1
 obuoluo: 1
 obscuro: 1
 ----------------
-Total: 24
+Total: 54
 
 PER-
 pereo1: 10
@@ -383,7 +383,7 @@ persono1: 1
 peruello: 1
 pertergeo: 1
 ----------------
-Total: 26
+Total: 60
 
 PRO-
 promitto: 4
@@ -409,7 +409,7 @@ promo: 1
 propono: 1
 prodeo1: 1
 ----------------
-Total: 22
+Total: 35
 
 SUB-
 suspendo: 4
@@ -430,7 +430,7 @@ subrepo: 1
 subiecto: 1
 subligo3: 1
 ----------------
-Total: 17
+Total: 24
 
 INTER-
 interpello: 3
@@ -441,7 +441,7 @@ intermisceo: 1
 interimo: 1
 intercido1: 1
 ----------------
-Total: 7
+Total: 11
 
 CIRCUM-
 circumdo: 2
@@ -450,7 +450,7 @@ circumuolo2: 1
 circumtono: 1
 circumpono: 1
 ----------------
-Total: 5
+Total: 6
 
 RE-
 respondeo: 11
@@ -502,7 +502,7 @@ recoquo: 1
 reformido2: 1
 repello: 1
 ----------------
-Total: 48
+Total: 113
 
 DIS-
 diuido: 6
@@ -531,7 +531,7 @@ dimitto: 1
 distringo: 1
 discerpo: 1
 ----------------
-Total: 25
+Total: 43
 
 PRAE-
 praebeo: 7
@@ -550,4 +550,4 @@ praecipito: 1
 praerodo: 1
 praelambo: 1
 ----------------
-Total: 15
+Total: 28

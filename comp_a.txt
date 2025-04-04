@@ -89,7 +89,7 @@ conduco: 1
 compingo1: 1
 contego: 1
 ----------------
-Total: 89
+Total: 578
 
 IN-
 insto: 33
@@ -230,7 +230,7 @@ incesso: 1
 inhibeo: 1
 imperito: 1
 ----------------
-Total: 137
+Total: 771
 
 EX-
 eripio: 46
@@ -343,7 +343,7 @@ extorqueo: 1
 efflagito: 1
 edo2: 1
 ----------------
-Total: 110
+Total: 642
 
 DE-
 desero2: 31
@@ -432,7 +432,7 @@ degusto: 1
 delibo: 1
 deprecor: 1
 ----------------
-Total: 85
+Total: 377
 
 AB-
 aspicio: 34
@@ -473,7 +473,7 @@ abicio: 1
 aspernor: 1
 abscido2: 1
 ----------------
-Total: 37
+Total: 218
 
 AD-
 accipio: 62
@@ -582,7 +582,7 @@ adolesco1: 1
 accido1: 1
 adiuro: 1
 ----------------
-Total: 105
+Total: 664
 
 OB-
 occurro: 17
@@ -633,7 +633,7 @@ obnubo: 1
 obtexo: 1
 obscuro: 1
 ----------------
-Total: 47
+Total: 238
 
 PER-
 perfero: 20
@@ -680,7 +680,7 @@ perterreo: 1
 perfodio: 1
 peruolo2: 1
 ----------------
-Total: 43
+Total: 164
 
 PRO-
 promitto: 17
@@ -730,7 +730,7 @@ protero: 1
 prouenio: 1
 proculco: 1
 ----------------
-Total: 46
+Total: 204
 
 SUB-
 subeo1: 49
@@ -778,7 +778,7 @@ subleuo1: 1
 subuenio: 1
 succido1: 1
 ----------------
-Total: 44
+Total: 219
 
 INTER-
 interluo: 2
@@ -793,7 +793,7 @@ intercipio: 1
 interimo: 1
 intersum1: 1
 ----------------
-Total: 11
+Total: 14
 
 CIRCUM-
 circumdo: 16
@@ -811,7 +811,7 @@ circumsono1: 1
 circumsisto: 1
 circumligo2: 1
 ----------------
-Total: 14
+Total: 50
 
 RE-
 relinquo: 80
@@ -924,7 +924,7 @@ resplendeo: 1
 responso: 1
 retexo: 1
 ----------------
-Total: 109
+Total: 666
 
 DIS-
 disicio: 12
@@ -977,7 +977,7 @@ dimetior: 1
 discindo: 1
 discludo: 1
 ----------------
-Total: 49
+Total: 147
 
 PRAE-
 praecipito: 12
@@ -1013,4 +1013,4 @@ praesumo: 1
 praefor: 1
 praefodio: 1
 ----------------
-Total: 32
+Total: 87

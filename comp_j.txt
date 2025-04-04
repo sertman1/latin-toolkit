@@ -63,7 +63,7 @@ conduplico: 1
 corrodo: 1
 coniungo: 1
 ----------------
-Total: 63
+Total: 225
 
 IN-
 impleo: 18
@@ -127,7 +127,7 @@ inuito: 1
 immolo: 1
 incoho: 1
 ----------------
-Total: 60
+Total: 194
 
 EX-
 exspecto: 22
@@ -205,7 +205,7 @@ extundo: 1
 excudo: 1
 effodio: 1
 ----------------
-Total: 75
+Total: 199
 
 DE-
 debeo: 25
@@ -252,7 +252,7 @@ decerpo: 1
 decoquo: 1
 demitto: 1
 ----------------
-Total: 43
+Total: 156
 
 AB-
 aspicio: 16
@@ -281,7 +281,7 @@ abicio: 1
 absumo: 1
 ambio: 1
 ----------------
-Total: 25
+Total: 66
 
 AD-
 accipio: 29
@@ -331,7 +331,7 @@ assuesco: 1
 adimo: 1
 ambio: 1
 ----------------
-Total: 46
+Total: 156
 
 OB-
 ostendo: 15
@@ -356,7 +356,7 @@ oblecto: 1
 officio: 1
 offendo: 1
 ----------------
-Total: 21
+Total: 73
 
 PER-
 pereo1: 23
@@ -381,7 +381,7 @@ percurro: 1
 pernocto: 1
 perlego2: 1
 ----------------
-Total: 21
+Total: 88
 
 PRO-
 propero: 15
@@ -409,7 +409,7 @@ prohibeo: 1
 promo: 1
 proueho: 1
 ----------------
-Total: 24
+Total: 87
 
 SUB-
 sufficio: 23
@@ -438,7 +438,7 @@ subicio: 1
 suspiro: 1
 surgo: 1
 ----------------
-Total: 25
+Total: 78
 
 INTER-
 interuenio: 1
@@ -459,7 +459,7 @@ circumeo1: 1
 circumlino: 1
 circumsilio: 1
 ----------------
-Total: 9
+Total: 15
 
 RE-
 relinquo: 23
@@ -509,7 +509,7 @@ renascor: 1
 respiro: 1
 resono1: 1
 ----------------
-Total: 46
+Total: 149
 
 DIS-
 distinguo: 5
@@ -537,7 +537,7 @@ discerno: 1
 discutio: 1
 digredior: 1
 ----------------
-Total: 24
+Total: 60
 
 PRAE-
 praesto1: 22
@@ -551,4 +551,4 @@ praegusto: 2
 praecipio: 2
 praemordeo: 1
 ----------------
-Total: 10
+Total: 59

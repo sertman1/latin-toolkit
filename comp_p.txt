@@ -14,7 +14,7 @@ compesco: 1
 concedo1: 1
 conniueo: 1
 ----------------
-Total: 14
+Total: 19
 
 IN-
 impello: 4
@@ -57,7 +57,7 @@ induco: 1
 immeio: 1
 inuenio: 1
 ----------------
-Total: 39
+Total: 57
 
 EX-
 excutio: 8
@@ -89,7 +89,7 @@ exsero2: 1
 emolo: 1
 exosso: 1
 ----------------
-Total: 29
+Total: 47
 
 DE-
 decet: 3
@@ -117,7 +117,7 @@ desterto: 1
 desum1: 1
 depungo: 1
 ----------------
-Total: 24
+Total: 28
 
 AB-
 aspicio: 2
@@ -125,7 +125,7 @@ aufero: 1
 abripio: 1
 amplector: 1
 ----------------
-Total: 4
+Total: 5
 
 AD-
 accedo1: 4
@@ -150,7 +150,7 @@ adueho: 1
 arrodo: 1
 amplector: 1
 ----------------
-Total: 21
+Total: 29
 
 OB-
 obsto: 3
@@ -160,7 +160,7 @@ ostendo: 1
 obiurgo: 1
 occo: 1
 ----------------
-Total: 6
+Total: 10
 
 PER-
 perdo: 2
@@ -172,7 +172,7 @@ perduco: 1
 pertundo: 1
 pereo1: 1
 ----------------
-Total: 8
+Total: 13
 
 PRO-
 proluo: 1
@@ -201,7 +201,7 @@ sufflo: 1
 subdo: 1
 supplico: 1
 ----------------
-Total: 13
+Total: 21
 
 INTER-
 ----------------
@@ -234,7 +234,7 @@ recepto: 1
 renuo: 1
 redeo1: 1
 ----------------
-Total: 21
+Total: 32
 
 DIS-
 dirigo: 2
@@ -252,7 +252,7 @@ discerno: 1
 diuido: 1
 discrepo: 1
 ----------------
-Total: 14
+Total: 19
 
 PRAE-
 praebeo: 2
@@ -264,4 +264,4 @@ praetego: 1
 praedico2: 1
 praeparo2: 1
 ----------------
-Total: 8
+Total: 9

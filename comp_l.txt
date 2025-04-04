@@ -138,7 +138,7 @@ colluceo: 1
 conduro: 1
 compareo: 1
 ----------------
-Total: 138
+Total: 783
 
 IN-
 insinuo: 29
@@ -244,7 +244,7 @@ inaedifico: 1
 ignesco: 1
 impendo: 1
 ----------------
-Total: 102
+Total: 305
 
 EX-
 exsto: 26
@@ -344,7 +344,7 @@ eluo: 1
 exhaurio: 1
 extorqueo: 1
 ----------------
-Total: 97
+Total: 380
 
 DE-
 debeo: 77
@@ -419,7 +419,7 @@ delabor2: 1
 dependeo: 1
 debilito: 1
 ----------------
-Total: 71
+Total: 289
 
 AB-
 amitto: 15
@@ -447,7 +447,7 @@ absumo: 1
 aboriscor: 1
 absilio: 1
 ----------------
-Total: 24
+Total: 87
 
 AD-
 addo: 24
@@ -532,7 +532,7 @@ appello2: 1
 accelero: 1
 admoueo: 1
 ----------------
-Total: 81
+Total: 276
 
 OB-
 ostendo: 17
@@ -574,7 +574,7 @@ occipio: 1
 occido2: 1
 oppilo: 1
 ----------------
-Total: 38
+Total: 135
 
 PER-
 pereo1: 34
@@ -653,7 +653,7 @@ perquiro: 1
 perualeo: 1
 peroleo: 1
 ----------------
-Total: 75
+Total: 296
 
 PRO-
 profundo2: 12
@@ -700,7 +700,7 @@ propinquo: 1
 proculco: 1
 prouomo: 1
 ----------------
-Total: 43
+Total: 160
 
 SUB-
 suppedito: 21
@@ -753,7 +753,7 @@ succutio: 1
 subtraho: 1
 subiecto: 1
 ----------------
-Total: 49
+Total: 141
 
 INTER-
 intereo1: 12
@@ -776,7 +776,7 @@ interfugio: 1
 interuomo: 1
 intercludo: 1
 ----------------
-Total: 19
+Total: 40
 
 CIRCUM-
 circumdo: 3
@@ -789,7 +789,7 @@ circumago: 1
 circumretio: 1
 circumpono: 1
 ----------------
-Total: 9
+Total: 11
 
 RE-
 reddo: 58
@@ -896,7 +896,7 @@ redhalo: 1
 recello: 1
 recumbo: 1
 ----------------
-Total: 103
+Total: 493
 
 DIS-
 dissoluo: 40
@@ -960,7 +960,7 @@ diuulgo1: 1
 disserpo: 1
 diffindo: 1
 ----------------
-Total: 60
+Total: 323
 
 PRAE-
 praebeo: 15
@@ -992,4 +992,4 @@ praescribo: 1
 praemonstro: 1
 praepono: 1
 ----------------
-Total: 28
+Total: 69
