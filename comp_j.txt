@@ -70,6 +70,7 @@ impleo: 18
 inuenio: 17
 incipio: 16
 indulgeo: 15
+intro1: 9
 impono: 8
 ignosco: 7
 insto: 7
@@ -103,7 +104,6 @@ induo: 1
 indignor: 1
 instruo: 1
 innuo: 1
-interuenio: 1
 incito1: 1
 incurro: 1
 induco: 1
@@ -117,20 +117,17 @@ intendo: 1
 inebrio: 1
 incero: 1
 impingo: 1
-interrogo: 1
 intueor: 1
 inficio: 1
 incedo1: 1
 infitior: 1
-intercipio: 1
 inauro: 1
-intersum1: 1
 imminuo: 1
 inuito: 1
 immolo: 1
 incoho: 1
 ----------------
-Total: 63
+Total: 60
 
 EX-
 exspecto: 22

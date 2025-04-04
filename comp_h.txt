@@ -66,10 +66,7 @@ impono: 4
 inuerto: 3
 insum1: 3
 imperito: 3
-interpello: 3
 incido1: 3
-intersum1: 2
-interdico2: 2
 inquiro: 2
 illino: 2
 inicio: 2
@@ -99,9 +96,7 @@ inspergo: 1
 incedo1: 1
 inquino: 1
 incanto: 1
-intereo1: 1
 inclamo: 1
-intermisceo: 1
 incurro: 1
 impero: 1
 illido: 1
@@ -111,9 +106,7 @@ imminuo: 1
 incido2: 1
 insculpo: 1
 incubo2: 1
-interimo: 1
 immolo: 1
-intercido1: 1
 innato: 1
 immordeo: 1
 inferuesco: 1
@@ -127,7 +120,7 @@ insector2: 1
 inamaresco: 1
 incoquo: 1
 ----------------
-Total: 72
+Total: 65
 
 EX-
 eripio: 6

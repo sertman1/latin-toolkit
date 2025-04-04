@@ -122,8 +122,8 @@ inueho: 8
 intorqueo: 8
 inuoluo: 8
 insurgo: 8
+intro1: 8
 impedio: 8
-intro: 8
 ingemo: 7
 incuso: 7
 insulto: 7
@@ -175,14 +175,11 @@ introgredior: 2
 insido: 2
 illabor2: 2
 incresco: 2
-interluo: 2
 immergo: 2
 incido2: 2
 immugio: 2
 inhio: 2
-interrumpo: 2
 irrito: 2
-interfundo2: 2
 instigo: 2
 ignoro: 2
 incesto: 2
@@ -192,10 +189,8 @@ informo: 2
 illacrimo: 2
 ingero: 2
 incutio: 1
-interfor: 1
 inscribo: 1
 inspicio: 1
-intercludo: 1
 insinuo: 1
 inserto: 1
 insero2: 1
@@ -213,23 +208,17 @@ inolesco: 1
 inuoco: 1
 incingo: 1
 insignio: 1
-internecto: 1
 increbresco: 1
-intertexo: 1
 inaccedo1: 1
 indubito: 1
 inardesco: 1
 insidior: 1
 ignesco: 1
-interluceo: 1
 inuigilo: 1
 infligo: 1
-intercipio: 1
-interimo: 1
 intepeo: 1
 infremo: 1
 illigo2: 1
-intersum1: 1
 inumbro: 1
 inuerto: 1
 infodio: 1
@@ -241,7 +230,7 @@ incesso: 1
 inhibeo: 1
 imperito: 1
 ----------------
-Total: 147
+Total: 137
 
 EX-
 eripio: 46
