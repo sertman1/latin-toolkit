@@ -25,7 +25,7 @@ magnes: 1
 ------------------------------
 Total: 176
 
-Greek Declension Adjectives
+Greek Declension Adjectives:
 ischonos: 1
 ------------------------------
 Total: 1
