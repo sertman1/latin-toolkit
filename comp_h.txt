@@ -177,7 +177,6 @@ extimesco: 1
 euinco: 1
 edissero2: 1
 elido: 1
-ago: 1
 elabor2: 1
 exagito: 1
 exsilio: 1
