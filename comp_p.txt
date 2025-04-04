@@ -1,0 +1,267 @@
+CON-
+compono: 3
+colligo3: 2
+cognosco: 2
+consumo: 2
+colluo: 1
+committo: 1
+corrumpo: 1
+contemno: 1
+commoueo: 1
+consentio: 1
+contineo: 1
+compesco: 1
+concedo1: 1
+conniueo: 1
+----------------
+Total: 14
+
+IN-
+impello: 4
+indulgeo: 3
+intendo: 3
+ignosco: 2
+induo: 2
+infundo2: 2
+ingemino: 2
+inspicio: 2
+ingemo: 2
+ingero: 2
+ignoro: 2
+insto: 2
+includo: 1
+innascor: 1
+imprimo: 1
+incuruo: 1
+impleo: 1
+infodio: 1
+inhibeo: 1
+immitto: 1
+incoquo: 1
+incresco: 1
+intabesco: 1
+illino: 1
+inuigilo: 1
+inuideo: 1
+intorqueo: 1
+impallesco: 1
+insero3: 1
+increpo: 1
+intumesco: 1
+incutio: 1
+inflo: 1
+intepeo: 1
+irroro: 1
+induco: 1
+immeio: 1
+inuenio: 1
+----------------
+Total: 38
+
+EX-
+excutio: 8
+exeo1: 7
+extendo: 3
+exsto: 2
+eximo: 2
+exhalo: 2
+exstinguo: 2
+expedio: 1
+eleuo1: 1
+eliquo: 1
+effundo2: 1
+exsulto: 1
+ebullio: 1
+expungo: 1
+expio: 1
+exopto: 1
+effluo: 1
+elargior: 1
+exporrigo2: 1
+exsupero: 1
+exspecto: 1
+egero: 1
+emereo: 1
+excipio: 1
+exclamo: 1
+exsero2: 1
+ago: 1
+emolo: 1
+exosso: 1
+----------------
+Total: 29
+
+DE-
+decet: 3
+decipio: 2
+detondeo: 2
+demordeo: 1
+despumo: 1
+demergo: 1
+deprehendo: 1
+defendo: 1
+deficio: 1
+decutio: 1
+desino: 1
+descendo: 1
+derado: 1
+despuo: 1
+defigo: 1
+deposco: 1
+deduco: 1
+decerpo: 1
+decoquo: 1
+defero: 1
+depello: 1
+desterto: 1
+desum1: 1
+depungo: 1
+----------------
+Total: 24
+
+AB-
+aspicio: 2
+aufero: 1
+abripio: 1
+amplector: 1
+----------------
+Total: 4
+
+AD-
+accedo1: 4
+affero: 2
+anhelo: 2
+addo: 2
+appono: 2
+admoueo: 2
+assentio: 1
+assono1: 1
+admitto: 1
+afflo: 1
+annuo: 1
+arcesso: 1
+assum1: 1
+adduco: 1
+attingo: 1
+assigno: 1
+accipio: 1
+astringo: 1
+adueho: 1
+arrodo: 1
+amplector: 1
+----------------
+Total: 21
+
+OB-
+obsto: 3
+occurro: 2
+oberro2: 2
+ostendo: 1
+obiurgo: 1
+occo: 1
+----------------
+Total: 6
+
+PER-
+perdo: 2
+percutio: 2
+pergo: 2
+permitto: 2
+perago: 2
+perduco: 1
+pertundo: 1
+pereo1: 1
+----------------
+Total: 8
+
+PRO-
+proluo: 1
+prodeo1: 1
+propendeo: 1
+profero: 1
+propero: 1
+promitto: 1
+produco: 1
+prohibeo: 1
+----------------
+Total: 8
+
+SUB-
+subeo1: 5
+suspendo: 3
+suppono: 2
+succingo: 2
+supplanto: 1
+subduco: 1
+suspiro: 1
+sufficio: 1
+succino: 1
+subrideo: 1
+sufflo: 1
+subdo: 1
+supplico: 1
+----------------
+Total: 13
+
+INTER-
+----------------
+Total: 0
+
+CIRCUM-
+----------------
+Total: 0
+
+RE-
+relinquo: 6
+recuso: 5
+respondeo: 3
+remitto: 1
+refulgeo: 1
+reuertor: 1
+requiesco: 1
+resto: 1
+retego: 1
+respuo: 1
+resigno: 1
+recedo1: 1
+reuello: 1
+retineo: 1
+relego1: 1
+reduco: 1
+relaxo: 1
+regusto: 1
+recepto: 1
+renuo: 1
+redeo1: 1
+----------------
+Total: 21
+
+DIS-
+dirigo: 2
+diluo: 2
+discingo: 2
+dignosco: 2
+dispono: 2
+dirimo: 1
+discedo1: 1
+discutio: 1
+dissoluo: 1
+diduco: 1
+dissuo: 1
+discerno: 1
+diuido: 1
+discrepo: 1
+----------------
+Total: 14
+
+PRAE-
+praebeo: 2
+praefero: 1
+praepono: 1
+praefigo: 1
+praecedo1: 1
+praetego: 1
+praedico2: 1
+praeparo2: 1
+----------------
+Total: 8
