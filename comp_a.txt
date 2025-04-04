@@ -123,6 +123,7 @@ intorqueo: 8
 inuoluo: 8
 insurgo: 8
 impedio: 8
+intro: 8
 ingemo: 7
 incuso: 7
 insulto: 7
