@@ -61,7 +61,7 @@ phaselos: 1
 ------------------------------
 Total: 97
 
-Greek Declension Adjectives
+Greek Declension Adjectives:
 allobrox: 1
 titanis: 1
 phaeax: 1
