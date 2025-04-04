@@ -1,0 +1,60 @@
+Greek Declension Common Nouns:
+poetris: 1
+splen: 1
+sardonyx: 1
+plasma: 1
+elegidion: 1
+heros: 1
+antitheton: 1
+delphin: 1
+lynx: 1
+echo: 1
+stemma: 1
+amomon: 1
+theta: 1
+caepa: 1
+sambuca: 1
+rhombos: 1
+cinnamum: 1
+chlamys: 1
+artocreas: 1
+lampas: 1
+------------------------------
+Total: 20
+
+Greek Declension Adjectives:
+------------------------------
+Total: 0
+
+Greek Declension Proper Nouns:
+ilias: 2
+attis: 2
+maenas: 2
+heliconides: 1
+pirene: 1
+polydamas: 1
+troiades: 1
+phyllis: 1
+hypsipyle: 1
+nereus: 1
+bassaris: 1
+euhyus: 1
+midas: 1
+eupolis: 1
+callirhoe: 1
+arcesilaus: 1
+solon: 1
+orestes: 1
+pericles: 1
+dinomache: 1
+helico: 1
+progne: 1
+thyestes: 1
+glyco: 1
+melicertes: 1
+chrysis: 1
+herodes: 1
+maeonides: 1
+cappadoces: 1
+------------------------------
+Total: 32

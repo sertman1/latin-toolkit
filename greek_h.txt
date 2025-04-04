@@ -1,0 +1,48 @@
+Greek Declension Common Nouns:
+rhombos: 6
+tetrarches: 1
+epos: 1
+aer: 1
+heros: 1
+gausape: 1
+------------------------------
+Total: 11
+
+Greek Declension Adjectives:
+------------------------------
+Total: 0
+
+Greek Declension Proper Nouns:
+ulixes: 3
+eupolis: 2
+achilles: 2
+scipiadas: 2
+plato: 2
+orestes: 2
+pythagoras: 2
+penelope: 2
+tyndarides: 1
+tanais: 1
+aristophanes: 1
+cyclops: 1
+marsya: 1
+hector: 1
+priamides: 1
+hecate: 1
+tisiphone: 1
+phitoleon: 1
+memnon: 1
+chremes: 1
+siren: 1
+proteus: 1
+pylades: 1
+electra: 1
+polemon: 1
+agaue: 1
+tiresias: 1
+laertiades: 1
+aeneas: 1
+hydaspes: 1
+alcon: 1
+------------------------------
+Total: 40

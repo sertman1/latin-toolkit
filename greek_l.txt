@@ -1,0 +1,61 @@
+Greek Declension Common Nouns:
+aer: 110
+aether: 34
+lampas: 5
+pelagus: 4
+tripus1: 2
+homoeomeria: 2
+melos: 2
+prester: 2
+cymbalum: 1
+anadema: 1
+melichros: 1
+acosmos: 1
+charis: 1
+ischnos: 1
+eromenion: 1
+rhadine: 1
+philema: 1
+hymenaeos: 1
+euhyius: 1
+androgynos: 1
+nymphe: 1
+crater: 1
+magnes: 1
+------------------------------
+Total: 176
+
+Greek Declension Adjectives
+ischonos: 1
+------------------------------
+Total: 1
+
+Greek Declension Proper Nouns:
+acheron: 8
+helico: 4
+tartara: 3
+tyndaris1: 2
+anaxagoras: 2
+curetes1: 2
+tityus: 2
+gigas: 2
+phaeton: 2
+pallas: 2
+memmiades: 1
+aulis: 1
+hymenaeos: 1
+pergamus: 1
+tantalos: 1
+tartarus: 1
+pan: 1
+geryo: 1
+hesperides: 1
+pontus: 1
+aegoceros: 1
+calliope: 1
+sidon: 1
+aegium: 1
+atthis: 1
+pandion: 1
+------------------------------
+Total: 45
