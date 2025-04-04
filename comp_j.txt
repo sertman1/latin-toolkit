@@ -151,7 +151,6 @@ exagito: 3
 excito1: 3
 exsto: 3
 educo2: 3
-ago: 3
 exerceo: 3
 excludo: 2
 excido1: 2
