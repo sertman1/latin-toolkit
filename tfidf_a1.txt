@@ -460,7 +460,6 @@ clipeus: 0.0196
 letum: 0.0196
 rapidus: 0.0196
 ueho: 0.0196
-2n: 0.0195
 appareo: 0.0195
 conuello: 0.0195
 fletus: 0.0195
