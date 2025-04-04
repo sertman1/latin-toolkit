@@ -244,7 +244,6 @@ exsulto: 15
 expedio: 14
 educo2: 14
 effugio: 12
-ago: 12
 excedo1: 11
 exspecto: 11
 exterreo: 11
