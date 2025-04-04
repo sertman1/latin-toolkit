@@ -946,7 +946,6 @@ dimoueo: 2
 discrepo: 1
 dissaepio: 1
 dispello: 1
-dito: 1
 dictito: 1
 disperdo: 1
 dilanio: 1
@@ -960,7 +959,7 @@ diuulgo1: 1
 disserpo: 1
 diffindo: 1
 ----------------
-Total: 323
+Total: 322
 
 PRAE-
 praebeo: 15
