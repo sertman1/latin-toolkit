@@ -26,7 +26,7 @@ aclys: 1
 ------------------------------
 Total: 197
 
-Greek Declension Adjectives
+Greek Declension Adjectives:
 tros: 7
 arcas: 6
 dardanides: 1
