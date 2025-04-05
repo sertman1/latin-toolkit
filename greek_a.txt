@@ -4,7 +4,6 @@ pelagus: 44
 heros: 23
 hymenaeos: 14
 aer: 9
-trosA: 7
 crater: 7
 chlamys: 7
 lampas: 5
@@ -15,23 +14,21 @@ tripus1: 3
 lebes: 2
 paean: 2
 lynx: 1
-dardanidesA: 1
 iaspis: 1
-acarnanA: 1
 cetos: 1
 adamas: 1
 tiaras: 1
 dolon: 1
 aclys: 1
 ------------------------------
-Total: 197
+Total: 188
 
 Greek Declension Adjectives:
 tros: 7
 arcas: 6
+acarnan: 1
 dardanides: 1
 tritonis: 1
-acarnan: 1
 ------------------------------
 Total: 16
 
@@ -80,7 +77,6 @@ andromache: 6
 erebus: 6
 menoetes: 6
 anchisiades: 6
-arcas: 6
 capys: 5
 orion: 5
 diomedes: 5
@@ -218,7 +214,6 @@ ilione: 1
 iopas: 1
 belides: 1
 palamedes: 1
-tritonis: 1
 acamas: 1
 machaon: 1
 epeos: 1
@@ -394,4 +389,4 @@ lyrnesus: 1
 saces: 1
 athos: 1
 ------------------------------
-Total: 1375
+Total: 1368

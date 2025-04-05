@@ -167,12 +167,10 @@ atreus: 1
 thebais: 1
 agaue: 1
 cambre: 1
-allobrox: 1
 acestes: 1
 europa: 1
 hermes: 1
 celaeno: 1
-titanis: 1
 agamemnonides: 1
 thyestes: 1
 melanippe: 1
@@ -208,14 +206,12 @@ laestrygones: 1
 cyclops: 1
 circe: 1
 elpenor: 1
-phaeax: 1
 coptos: 1
 tydides: 1
 thule: 1
 zacynthos: 1
 sacunthos: 1
-maeotis: 1
 pythagoras: 1
 pylades: 1
 ------------------------------
-Total: 202
+Total: 198

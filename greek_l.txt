@@ -12,7 +12,6 @@ anadema: 1
 melichros: 1
 acosmos: 1
 charis: 1
-ischnos: 1
 eromenion: 1
 rhadine: 1
 philema: 1
@@ -23,10 +22,10 @@ nymphe: 1
 crater: 1
 magnes: 1
 ------------------------------
-Total: 176
+Total: 175
 
 Greek Declension Adjectives:
-ischonos: 1
+ischnos: 1
 ------------------------------
 Total: 1
 
